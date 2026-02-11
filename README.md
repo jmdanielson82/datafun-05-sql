@@ -138,6 +138,16 @@ Run the Python source files:
 
 ```shell
 uv run python -m datafun_05_sql.case_duckdb_retail
+
+### Change it to:
+
+```markdown
+Run the Python source files:
+
+```shell
+uv run python -m datafun_05_sql.case_duckdb_retail
+uv run python -m datafun_05_sql.danielson_duckdb_library
+
 ```
 
 Run Python checks and tests (as available):
